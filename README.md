@@ -1,4 +1,4 @@
 # hello-world
 
-I Pen-pineapple-apple-pen.
+Pen-pineapple-apple-pen.
 Say.
